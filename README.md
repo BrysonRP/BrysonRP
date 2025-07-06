@@ -47,3 +47,70 @@
 ### ⚡ Fun Fact
 > I believe **tech can be both meaningful and minimal**. When I'm not coding, I explore music, VR gaming, or design simple UI mockups for fun.
 
+
+# 👋 Hi, I'm Bryson Sam R P
+
+🎓 CS Undergrad | 🧠 AI/ML Enthusiast | 📱 Flutter Developer  
+📍 Based in India | 💡 Passionate about solving real-world problems with tech
+
+---
+
+## 🔍 About Me
+
+I'm a tech enthusiast with a growing passion for building intelligent systems and impactful mobile apps.  
+Currently exploring the fields of **Artificial Intelligence**, **Computer Vision**, and **Augmented Reality**.
+
+- 🎯 Currently working on: **Deepfake Detection using Multi-Input Models**
+- 💊 Built a **Medicine Reminder App** for the elderly using **Flutter + Glide AI**
+- 🏅 Awarded *Best Student Award* at IE(I) Students' Chapter – AI Sathyabama
+- 📅 Organized & led events like **Aptitude Showdown** as a student coordinator
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `Dart` `JavaScript`
+
+**Frameworks & Tools:**  
+`Flutter` `TensorFlow` `Keras` `Unity (ARCore)` `React` `Glide` `Firebase`
+
+**Other Skills:**  
+`Machine Learning` `Deep Learning` `UI/UX Design` `Community Leadership`
+
+---
+
+## 🚀 Projects
+
+- **Deepfake Detection System**  
+  Multi-stream model using EfficientNet + LSTM on video and facial landmarks.
+
+- **Medicine Reminder App**  
+  Designed for elderly users with sound alerts, built in Flutter with Glide AI.
+
+- **Emotion Recognition System**  
+  Real-time face emotion detection using a custom CNN model.
+
+- **AR Cloud Anchoring App (Unity + ARCore)**  
+  Syncs AR content across devices using spatial anchors.
+
+---
+
+## 📌 Roles & Involvements
+
+- 📌 Secretary, **IEI Student Chapter**
+- 📌 Community Volunteer & Event Coordinator
+- 📌 Tech Workshop Contributor & AI Hackathon Participant
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 Portfolio: [your-portfolio-link]
+- 📧 Email: [your-email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📷 Instagram: [instagram.com/yourprofile](https://instagram.com/yourprofile)
+
+---
+
+> “Code with purpose, design with empathy.”
