@@ -114,3 +114,82 @@ Currently exploring the fields of **Artificial Intelligence**, **Computer Vision
 ---
 
 > “Code with purpose, design with empathy.”
+
+<!-- Banner -->
+<img src="https://your-banner-url.com/banner.png" alt="Bryson Sam R P Banner" style="width:100%;"/>
+
+# Bryson Sam R P
+
+CS Undergrad | AI/ML Enthusiast | Flutter Developer | Tech Community Leader
+
+---
+
+## About Me
+
+I'm a Computer Science student passionate about building intelligent, scalable, and user-focused digital solutions.  
+My work primarily revolves around machine learning, mobile app development, and augmented reality.
+
+I actively contribute to student communities and have led impactful events and workshops across various domains.
+
+- Best Student Award – IE(I) Students' Chapter – AI Sathyabama  
+- Developer of a Flutter-based Medicine Reminder App for elderly users  
+- Exploring Deepfake Detection, Emotion Recognition, and Unity AR  
+- Secretary – IEI Student Chapter
+
+---
+
+## Skills
+
+**Languages**  
+Python, Dart, JavaScript
+
+**Frameworks & Tools**  
+Flutter, TensorFlow, Keras, React, Unity (ARCore), Firebase, Glide, Figma
+
+**Core Areas**  
+Machine Learning, Mobile App Development, AR/VR (Unity), UI/UX Design, Event Coordination
+
+---
+
+## Projects
+
+**Deepfake Detection Model**  
+- Dual-input architecture combining EfficientNet-B4 with LSTM  
+- Focused on facial landmarks and temporal patterns
+
+**Medicine Reminder App (Flutter + Glide AI)**  
+- Customizable medicine alerts for elderly care  
+- Includes sound notifications and intuitive UI
+
+**Real-time Emotion Detection**  
+- Face-based emotion classifier using CNN models  
+- Live webcam inference
+
+**Cloud Anchor AR App**  
+- Syncs 3D objects across Android devices using Unity + ARCore Cloud Anchors
+
+---
+
+## Involvements
+
+- Secretary – IEI Student Chapter  
+- Event Lead – Aptitude Showdown  
+- Microsoft Learn AI Sessions – Attendee & Contributor  
+- Community Volunteer – Tech Workshops & Hackathons
+
+---
+
+## Contact
+
+**Portfolio**: [your-portfolio-link]  
+**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+**Email**: your.email@example.com  
+**Instagram**: [instagram.com/yourprofile](https://instagram.com/yourprofile)
+
+---
+
+<!-- GitHub Stats (Optional) -->
+<!--
+![Bryson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+-->
+
