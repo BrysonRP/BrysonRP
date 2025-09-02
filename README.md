@@ -1,4 +1,4 @@
-# Hi there, I'm Bryson Sam R P
+# Hi there, I'm Bryson Sam
 
 CSE Undergrad | AI/ML Enthusiast | Web & App Developer | Tech Community Leader
 
@@ -69,7 +69,6 @@ A proactive learner and leader, I’ve hosted and contributed to numerous techni
 ## Contact
 
 - **LinkedIn**: [linkedin.com/in/bryson-sam-r-p](https://linkedin.com/in/bryson-sam-r-p)  
-- **GitHub**: [github.com/BrysonRP](https://github.com/BrysonRP)  
 - **Email**: brysonsamuel005@gmail.com  
 - **Phone**: +91 85250 61660  
 
